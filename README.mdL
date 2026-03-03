@@ -1,1 +1,41 @@
-Live Server :- https://abdelrahmangalal200101-cpu.github.io/Page-Based-On-Float-Borders-Css/
+# 🚀 Page Based on Float & Borders – CSS Basics
+
+## 📌 Overview
+
+This project represents my **second CSS project**, where I started experimenting with **Float layouts** and **Borders**.
+
+It is a static webpage designed to practice:
+
+- Floating elements to structure content  
+- Adding borders for visual separation and styling  
+- Basic layout design with CSS  
+
+🔗 **Live Demo:**  
+https://abdelrahmangalal200101-cpu.github.io/Page-Based-On-Float-Borders-Css/
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- CSS Float  
+- Borders & Box Model  
+
+---
+
+## 🎯 What I Learned
+
+- How to float elements to create multi-column layouts  
+- Styling elements with borders for better visual hierarchy  
+- Understanding the Box Model in CSS  
+- Combining CSS properties for clean layouts  
+- Preparing for more advanced layout techniques like Flex and Grid  
+
+---
+
+## 📈 Progress Note
+
+This project shows the **early stages of my CSS journey**, right after learning HTML basics.
+
+It laid the foundation for **more advanced layouts using Flexbox, Grid, and positioning**, and helped me understand how to structure content visually and effectively.
